@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Remy!
-- 👀 I’m interested in Microsoft Power Platform, Azure, Dynamics and C#.
+- 👀 I’m interested in Microsoft Power Platform, Azure, Dynamics 365 CRM, C# and Python. 
 - 🌱 I’m currently deepening my knowledge in the wider Power Platform set of services.
 - 💞️ I’m looking to collaborate on any projects relating to the Microsoft stack.
 
